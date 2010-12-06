@@ -1,6 +1,6 @@
 Name: koffice-l10n-cy
 Version: 1.9.98.5
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Language files for KOffice Welsh
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
